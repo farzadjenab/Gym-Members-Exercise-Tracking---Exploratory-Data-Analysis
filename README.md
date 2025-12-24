@@ -88,7 +88,7 @@ gym-members-eda/
 - Python **3.8+**
 
 ### Setup Steps
-```bash
+
 git clone https://github.com/farzadjenab/Gym-Members-Exercise-Tracking---Exploratory-Data-Analysis.git
 cd gym-members-eda
 
