@@ -68,7 +68,7 @@ The dataset contains **973 records** of gym members with **16 features** trackin
 ---
 
 ## 📂 Project Structure
-```text
+
 gym-members-eda/
 │
 ├── gym_analysis.ipynb
